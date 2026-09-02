@@ -304,20 +304,6 @@ The project helped me understand:
 
 ---
 
-## 📸 Project Screenshots
-
-Add screenshots of the application here.
-
-Example:
-
-```markdown
-![N-Armed Bandit Explorer](./screenshots/dashboard.png)
-```
-
-You can create a `screenshots` folder in the repository and place your project screenshots inside it.
-
----
-
 ## 🛠️ Running the Project Locally
 
 ### 1. Clone the repository
@@ -396,16 +382,6 @@ The project combines AI-assisted development with fundamental concepts from **Ma
 **Frontend:** React + Vite
 **Development:** Vitara AI
 **Purpose:** Educational visualization of reinforcement learning concepts
-
----
-
-## 🔗 Project Links
-
-**GitHub Repository:**
-Add your GitHub repository link here.
-
-**Live Demo:**
-Add the deployed application link here when available.
 
 ---
 
